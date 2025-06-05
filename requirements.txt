@@ -4,3 +4,4 @@ streamlit
 gdown
 pillow
 pillow-avif-plugin
+stegano
